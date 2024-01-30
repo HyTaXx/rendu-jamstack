@@ -15,3 +15,4 @@ Project including a pnpm workspace managing both Strapi and Nuxt 3 applications.
 5. Configure Strapi first usage by running `pnpm strapi dev`.
 
 You can also run both packages by using `pnpm dev` command.
+# rendu-jamstack
